@@ -10,11 +10,9 @@ Finora allows users to track income and expenses, visualize spending by category
 
 ## 👀 Preview
 
-<!--
-Add the project screenshot here after deployment.
 
 ![Finora Dashboard]![alt text](image.png)
--->
+
 
 🚀 **Live Demo:** [Open Finora](https://mateusbueno2034.github.io/Finora/)
 
